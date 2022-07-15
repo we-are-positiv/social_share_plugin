@@ -1,16 +1,16 @@
 PODS:
-  - FBAEMKit (13.1.0):
-    - FBSDKCoreKit_Basics (= 13.1.0)
-  - FBSDKCoreKit (13.1.0):
-    - FBAEMKit (= 13.1.0)
-    - FBSDKCoreKit_Basics (= 13.1.0)
-  - FBSDKCoreKit_Basics (13.1.0)
-  - FBSDKShareKit (13.1.0):
-    - FBSDKCoreKit (= 13.1.0)
+  - FBAEMKit (14.0.0):
+    - FBSDKCoreKit_Basics (= 14.0.0)
+  - FBSDKCoreKit (14.0.0):
+    - FBAEMKit (= 14.0.0)
+    - FBSDKCoreKit_Basics (= 14.0.0)
+  - FBSDKCoreKit_Basics (14.0.0)
+  - FBSDKShareKit (14.0.0):
+    - FBSDKCoreKit (= 14.0.0)
   - Flutter (1.0.0)
   - social_share_plugin (0.4.1):
-    - FBSDKCoreKit (~> 13.1.0)
-    - FBSDKShareKit (~> 13.1.0)
+    - FBSDKCoreKit (~> 14.0.0)
+    - FBSDKShareKit (~> 14.0.0)
     - Flutter
 
 DEPENDENCIES:
@@ -31,12 +31,12 @@ EXTERNAL SOURCES:
     :path: ".symlinks/plugins/social_share_plugin/ios"
 
 SPEC CHECKSUMS:
-  FBAEMKit: 3be32ffb79fe7c0603fed00d81742b23241e89a5
-  FBSDKCoreKit: eff97dea778dbe6cc4498959cffb619c75675102
-  FBSDKCoreKit_Basics: c151609a1cf6976a5958febcf0043266a8fd5151
-  FBSDKShareKit: ba73d5d51af028bfc9e6fa34be16340fe055e0fa
+  FBAEMKit: d00064597439e75885c70d9adbcb5f3e9ad84f5d
+  FBSDKCoreKit: e5d3acfffe5063a9d0b967ba2ad1f5afc460cf43
+  FBSDKCoreKit_Basics: 1ff46a12e80f0b66e6c00e1ef32d6a5b5b9008a5
+  FBSDKShareKit: 2f6a6a1445cc1b8ea0f733e60d02d2f7c4ebf8be
   Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
-  social_share_plugin: d6b5e97ee09fc3f6043718664094f738d6ef241e
+  social_share_plugin: f7c9a9af153986d4d54439088191c62318507557
 
 PODFILE CHECKSUM: 7368163408c647b7eb699d0d788ba6718e18fb8d
 
